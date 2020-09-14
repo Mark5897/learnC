@@ -1,0 +1,4 @@
+Simpling Compile example for linux system:
+
+g++ basics.cpp -o "basicRun" - This will compile basics.cpp into a file called basicRun.o
+./basicRun					 - This will run the basicRun.o file
