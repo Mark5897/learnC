@@ -2,6 +2,7 @@
 using namespace std;
 
 // declared classes below
+// HELLO!!!
 class anObject;
 // declared functions below
 void testFunc();
